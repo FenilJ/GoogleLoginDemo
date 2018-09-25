@@ -1,0 +1,7 @@
+target 'GoogleLoginDemo' do
+
+pod 'GoogleSignIn'
+pod 'AppAuth'
+
+end
+
